@@ -25,7 +25,7 @@ Create streaming dataframe and define pipeline
 Execute pipeline
 ![img_3.png](screenshots/img_3.png)
 
-Data starts upload
+Data starts uploading
 ![img_6.png](screenshots/img_7.png)
 
 ![img_7.png](screenshots/img_6.png)
