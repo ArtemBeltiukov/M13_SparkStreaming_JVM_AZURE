@@ -25,6 +25,11 @@ Create streaming dataframe and define pipeline
 Execute pipeline
 ![img_3.png](screenshots/img_3.png)
 
+Data starts upload
+![img_6.png](screenshots/img_7.png)
+
+![img_7.png](screenshots/img_6.png)
+
 Here we can see number of distinct hotel and average temp for each city each day
 ![img_4.png](screenshots/img_4.png)
 
